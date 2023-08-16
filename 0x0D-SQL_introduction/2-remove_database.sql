@@ -1,2 +1,2 @@
---Script that deletes hbtn_0c_0 from MySQL server.
+-- Script that deletes hbtn_0c_0 from MySQL server.
 DROP DATABASE IF EXISTS 'hbtn_0c_0';
